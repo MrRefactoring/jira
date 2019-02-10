@@ -1,0 +1,9 @@
+[package]
+name = "jira"
+version = "0.0.0"
+description = "Jira API"
+authors = ["MrRefactoring <MrRefactoring@yandex.ru>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
