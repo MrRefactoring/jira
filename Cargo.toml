@@ -7,3 +7,5 @@ edition = "2018"
 license = "MIT"
 
 [dependencies]
+oauth2 = "1.3.0"
+reqwest = "0.9.9"
